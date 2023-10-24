@@ -31,3 +31,9 @@ plt.title('Galaxy Rotation Curves')
 plt.legend()
 plt.grid(True)
 plt.show()
+
+This visual representation underscores the concept of dark matter: even though we cannot directly observe dark matter, its influence is evident in the rotation curves of galaxies.
+
+As the rotational velocity decreases steadily with dark matter influence, but rather falling into a slower velocity further away, dark matter speeds up as its distance increases. Perpendicular until 1.0 rotational velocity combined with a near 2 Distance from Galactic Center. 
+
+In galaxies without the influence of dark matter, we would expect the rotational velocities of stars to decrease with increasing distance from the galactic center. However, in the presence of dark matter, the rotation curves tend to remain flat or even increase, suggesting a large amount of unseen mass (dark matter) outside the visible galaxy.
